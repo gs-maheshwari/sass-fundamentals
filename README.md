@@ -1,9 +1,4 @@
 <p align='center'>
-  <a href="https://mike.works" target='_blank'>
-    <img height=40 src='https://assets.mike.works/img/login_logo-33a9e523d451fb0d902f73d5452d4a0b.png' />
-  </a> 
-</p>
-<p align='center'>
   <a href="https://mike.works/course/sass-fundamentals-5438fec/stage/sass-fundamentals-ca61dca" target='_blank'>
     <img height=150 src='https://cloud.githubusercontent.com/assets/558005/26024624/70ade15a-37d5-11e7-9e65-aa7b696cbaa0.png' />
   </a>
